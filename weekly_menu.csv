@@ -1,0 +1,36 @@
+meal_id,weekday,meal_type,meal_name
+1,Monday,breakfast,Omelette & Bread
+2,Monday,lunch,Ghormeh Sabzi
+3,Monday,lunch,Steamed Rice
+4,Monday,dinner,Kookoo Sabzi
+5,Monday,dinner,Flatbread
+6,Tuesday,breakfast,Porridge
+7,Tuesday,lunch,Chicken Kebob
+8,Tuesday,lunch,Grilled Vegetables
+9,Tuesday,dinner,Bean & Tomato Stew
+10,Tuesday,dinner,Bread
+11,Wednesday,breakfast,Fried Egg & Cheese
+12,Wednesday,lunch,Spaghetti Bolognese
+13,Wednesday,lunch,Garlic Bread
+14,Wednesday,dinner,Salad with Tuna
+15,Wednesday,dinner,Bread
+16,Thursday,breakfast,Bean Stew (Adasi)
+17,Thursday,lunch,Fried Fish
+18,Thursday,lunch,Rice & Salad
+19,Thursday,dinner,Filled Potatoes (Tahchin style)
+20,Thursday,dinner,Yogurt
+21,Friday,breakfast,Toast & Jam
+22,Friday,lunch,Lentil Stew
+23,Friday,lunch,Rice
+24,Friday,dinner,Vegetable Soup
+25,Friday,dinner,Bread
+26,Saturday,breakfast,Yogurt & Fruit
+27,Saturday,lunch,Beef Stew
+28,Saturday,lunch,Potatoes
+29,Saturday,dinner,Sardine & Rice
+30,Saturday,dinner,Salad
+31,Sunday,breakfast,Pancakes
+32,Sunday,lunch,Vegetarian Curry
+33,Sunday,lunch,Rice
+34,Sunday,dinner,Eggplant Stew
+35,Sunday,dinner,Rice
